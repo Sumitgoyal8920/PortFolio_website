@@ -111,16 +111,6 @@ body {
    
    
 }
-@media (max-width: 400px){
-   .home-profile img{
-    width: 200px;
-    height: 260px;
-    border-radius: 15px;
-   
-
-   } 
-}
-
 .home-info{
     width: 50%;
     height: 100%;
